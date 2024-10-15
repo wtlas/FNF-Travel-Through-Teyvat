@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				57,
+				135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Datsu Left Pose"
+		},
+		{
+			"offsets": [
+				10,
+				122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Datsu Left Miss"
+		},
+		{
+			"offsets": [
+				21,
+				106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Datsu Down Miss"
+		},
+		{
+			"offsets": [
+				-34,
+				141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Datsu Up Miss"
+		},
+		{
+			"offsets": [
+				-16,
+				136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Datsu Right Miss"
+		},
+		{
+			"offsets": [
+				60,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Datsu Down Pose"
+		},
+		{
+			"offsets": [
+				-44,
+				134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Datsu Up Pose"
+		},
+		{
+			"offsets": [
+				-22,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Datsu Right Pose"
+		},
+		{
+			"offsets": [
+				63,
+				126
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Datsu Idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/datsu",
+	"position": [
+		-10,
+		250
+	],
+	"healthicon": "datsu",
+	"flip_x": true,
+	"healthbar_colors": [
+		120,
+		180,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}

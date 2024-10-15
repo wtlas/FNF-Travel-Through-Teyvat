@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Datsu Sprites and Misses v2.png">
+	<!-- Created with Adobe Animate version 24.0.5.40 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Datsu Down Miss0000" x="0" y="0" width="496" height="810" frameX="-14" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0001" x="0" y="0" width="496" height="810" frameX="-14" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0002" x="496" y="0" width="486" height="810" frameX="0" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0003" x="496" y="0" width="486" height="810" frameX="0" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0004" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0005" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0006" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0007" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0008" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0009" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0010" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0011" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0012" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0013" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0014" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0015" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0016" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0017" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0018" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0019" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0020" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0021" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0022" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0023" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0024" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0025" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0026" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0027" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0028" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0029" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Miss0030" x="982" y="0" width="493" height="810" frameX="-10" frameY="0" frameWidth="510" frameHeight="810"/>
+	<SubTexture name="Datsu Down Pose0000" x="1475" y="0" width="540" height="850" frameX="-15" frameY="-19" frameWidth="555" frameHeight="869"/>
+	<SubTexture name="Datsu Down Pose0001" x="1475" y="0" width="540" height="850" frameX="-15" frameY="-19" frameWidth="555" frameHeight="869"/>
+	<SubTexture name="Datsu Down Pose0002" x="2015" y="0" width="549" height="862" frameX="-6" frameY="-7" frameWidth="555" frameHeight="869"/>
+	<SubTexture name="Datsu Down Pose0003" x="2015" y="0" width="549" height="862" frameX="-6" frameY="-7" frameWidth="555" frameHeight="869"/>
+	<SubTexture name="Datsu Down Pose0004" x="2564" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0005" x="2564" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0006" x="2564" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0007" x="2564" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0008" x="2564" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0009" x="2564" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0010" x="2564" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0011" x="3119" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0012" x="3119" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0013" x="3674" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0014" x="3674" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0015" x="3674" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0016" x="3674" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0017" x="3674" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0018" x="3674" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0019" x="3674" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0020" x="3674" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0021" x="3674" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0022" x="3674" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0023" x="3674" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0024" x="3674" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Down Pose0025" x="3674" y="0" width="555" height="869"/>
+	<SubTexture name="Datsu Idle10000" x="4229" y="0" width="576" height="853" frameX="0" frameY="-25" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10001" x="4229" y="0" width="576" height="853" frameX="0" frameY="-25" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10002" x="4805" y="0" width="564" height="856" frameX="-6" frameY="-22" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10003" x="4805" y="0" width="564" height="856" frameX="-6" frameY="-22" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10004" x="5369" y="0" width="564" height="863" frameX="-6" frameY="-15" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10005" x="5369" y="0" width="564" height="863" frameX="-6" frameY="-15" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10006" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10007" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10008" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10009" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10010" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10011" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10012" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10013" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10014" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10015" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10016" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10017" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10018" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10019" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10020" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10021" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10022" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Idle10023" x="5933" y="0" width="562" height="868" frameX="-8" frameY="0" frameWidth="576" frameHeight="878"/>
+	<SubTexture name="Datsu Left Miss0000" x="6495" y="0" width="462" height="859" frameX="-25" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0001" x="6495" y="0" width="462" height="859" frameX="-25" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0002" x="6957" y="0" width="480" height="859" frameX="0" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0003" x="6957" y="0" width="480" height="859" frameX="0" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0004" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0005" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0006" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0007" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0008" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0009" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0010" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0011" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0012" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0013" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0014" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0015" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0016" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0017" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0018" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0019" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0020" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0021" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0022" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0023" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0024" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0025" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0026" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0027" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0028" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0029" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Miss0030" x="7437" y="0" width="469" height="859" frameX="-12" frameY="0" frameWidth="487" frameHeight="859"/>
+	<SubTexture name="Datsu Left Pose0000" x="0" y="869" width="537" height="872" frameX="0" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0001" x="0" y="869" width="537" height="872" frameX="0" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0002" x="537" y="869" width="537" height="872" frameX="0" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0003" x="537" y="869" width="537" height="872" frameX="0" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0004" x="1074" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0005" x="1074" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0006" x="1074" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0007" x="1074" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0008" x="1074" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0009" x="1074" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0010" x="1074" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0011" x="1608" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0012" x="1608" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0013" x="2142" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0014" x="2142" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0015" x="2142" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0016" x="2142" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0017" x="2142" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0018" x="2142" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0019" x="2142" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0020" x="2142" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0021" x="2142" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0022" x="2142" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0023" x="2142" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Left Pose0024" x="2142" y="869" width="534" height="872" frameX="-5" frameY="0" frameWidth="539" frameHeight="872"/>
+	<SubTexture name="Datsu Right Miss0000" x="2676" y="869" width="502" height="883" frameX="-13" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0001" x="2676" y="869" width="502" height="883" frameX="-13" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0002" x="3178" y="869" width="493" height="883" frameX="0" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0003" x="3178" y="869" width="493" height="883" frameX="0" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0004" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0005" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0006" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0007" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0008" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0009" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0010" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0011" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0012" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0013" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0014" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0015" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0016" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0017" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0018" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0019" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0020" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0021" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0022" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0023" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0024" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0025" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Miss0026" x="3671" y="869" width="498" height="883" frameX="-8" frameY="0" frameWidth="515" frameHeight="883"/>
+	<SubTexture name="Datsu Right Pose0000" x="4169" y="869" width="473" height="881" frameX="-14" frameY="0" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0001" x="4169" y="869" width="473" height="881" frameX="-14" frameY="0" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0002" x="4642" y="869" width="480" height="878" frameX="-4" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0003" x="4642" y="869" width="480" height="878" frameX="-4" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0004" x="5122" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0005" x="5122" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0006" x="5122" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0007" x="5122" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0008" x="5122" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0009" x="5122" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0010" x="5122" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0011" x="5600" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0012" x="5600" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0013" x="6078" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0014" x="6078" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0015" x="6078" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0016" x="6078" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0017" x="6078" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0018" x="6078" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0019" x="6078" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0020" x="6078" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0021" x="6078" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0022" x="6078" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0023" x="6078" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0024" x="6078" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Right Pose0025" x="6078" y="869" width="478" height="878" frameX="0" frameY="-3" frameWidth="487" frameHeight="881"/>
+	<SubTexture name="Datsu Up Miss0000" x="6556" y="869" width="496" height="876" frameX="-16" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0001" x="6556" y="869" width="496" height="876" frameX="-16" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0002" x="7052" y="869" width="492" height="876" frameX="0" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0003" x="7052" y="869" width="492" height="876" frameX="0" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0004" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0005" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0006" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0007" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0008" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0009" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0010" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0011" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0012" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0013" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0014" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0015" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0016" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0017" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0018" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0019" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0020" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0021" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0022" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0023" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0024" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0025" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Miss0026" x="7544" y="869" width="493" height="876" frameX="-7" frameY="0" frameWidth="512" frameHeight="876"/>
+	<SubTexture name="Datsu Up Pose0000" x="0" y="1752" width="461" height="881"/>
+	<SubTexture name="Datsu Up Pose0001" x="0" y="1752" width="461" height="881"/>
+	<SubTexture name="Datsu Up Pose0002" x="461" y="1752" width="460" height="871" frameX="0" frameY="-10" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0003" x="461" y="1752" width="460" height="871" frameX="0" frameY="-10" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0004" x="921" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0005" x="921" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0006" x="921" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0007" x="921" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0008" x="921" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0009" x="921" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0010" x="921" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0011" x="1374" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0012" x="1374" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0013" x="1827" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0014" x="1827" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0015" x="1827" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0016" x="1827" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0017" x="1827" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0018" x="1827" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0019" x="1827" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0020" x="1827" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0021" x="1827" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0022" x="1827" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0023" x="1827" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+	<SubTexture name="Datsu Up Pose0024" x="1827" y="1752" width="453" height="877" frameX="0" frameY="-4" frameWidth="461" frameHeight="881"/>
+</TextureAtlas>

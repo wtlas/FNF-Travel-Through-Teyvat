@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Sangonomiya",
+			"kokomi",
+			[
+				60,
+				60,
+				80
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "weekttt",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Watatsumi Island",
+	"weekName": "Watatsumi Island",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}
